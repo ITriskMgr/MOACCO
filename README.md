@@ -13,6 +13,4 @@ Any reuse should be discussed with the project team.
 
 Current references to be added here: 
 
-A LitMap is available
-
-<iframe title='Litmaps Embedded Map "compliance"' src='https://app.litmaps.co/embed/5D637937-3D7E-4088-8348-D4A2405539D3?graphConfig=%7B%22scaleMode%22%3A%22citations%22%2C%22xAxisMode%22%3A%22compact%22%2C%22yAxisMode%22%3A%22compact%22%2C%22edgeMode%22%3A%22alwaysOn%22%2C%22labelContentMode%22%3A%22author%22%2C%22graphError%22%3Anull%7D' style='min-width: 500px; min-height: 350px' />
+A LitMap is available: https://app.litmaps.co/shared/DBA27D8C-B1CC-4F70-B719-EC87D174E36E?graphConfig=%7B%22scaleMode%22%3A%22citations%22%2C%22xAxisMode%22%3A%22compact%22%2C%22yAxisMode%22%3A%22compact%22%2C%22edgeMode%22%3A%22alwaysOn%22%2C%22labelContentMode%22%3A%22author%22%2C%22graphError%22%3Anull%7D
