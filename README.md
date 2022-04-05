@@ -1,7 +1,7 @@
 # MOACCO
-The name is for Mother of all cybersecurity compliance ontologies
+The name is based on the acronym for Mother of all cybersecurity compliance ontologies. This of it a Academic humour.
 
-This repository is used by the cybersecurity compliance ontology project by Marc-André Léger done at Polytechnique Montréal. It contains all the data, test files and reults from the tests that were used in the project.
+This repository was created from searches on Google and in the scientific litterature for everyting related to cybersecurity and compliance. It is intended to be used by the cybersecurity compliance ontology project by Pr Marc-André Léger (https://www.linkedin.com/in/itriskmgr/) at Polytechnique Montréal (https://www.polymtl.ca/). It contains all the data, test files and reults from the tests that are or were used in the project.
 
 Theses are provided to the collaborators and reviewers to contribute, use, document or improve the project.
 
